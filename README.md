@@ -68,6 +68,7 @@
 | [0204-count-primes](https://github.com/sahilbind05/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/sahilbind05/Leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilbind05/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/sahilbind05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1732-find-the-highest-altitude](https://github.com/sahilbind05/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/sahilbind05/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahilbind05/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -112,6 +113,7 @@
 | [0075-sort-colors](https://github.com/sahilbind05/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sahilbind05/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sahilbind05/Leetcode/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/sahilbind05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sahilbind05/Leetcode/tree/master/0029-divide-two-integers) |
+| [0287-find-the-duplicate-number](https://github.com/sahilbind05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +140,7 @@
 | [0069-sqrtx](https://github.com/sahilbind05/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/sahilbind05/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilbind05/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/sahilbind05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
