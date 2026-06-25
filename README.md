@@ -37,6 +37,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahilbind05/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sahilbind05/Leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/sahilbind05/Leetcode/tree/master/0125-valid-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/sahilbind05/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -100,6 +101,7 @@
 | [0042-trapping-rain-water](https://github.com/sahilbind05/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sahilbind05/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sahilbind05/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/sahilbind05/Leetcode/tree/master/0125-valid-palindrome) |
 ## Linked List
 |  |
 | ------- |
