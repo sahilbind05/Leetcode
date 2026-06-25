@@ -55,6 +55,7 @@
 | [0042-trapping-rain-water](https://github.com/sahilbind05/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/sahilbind05/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sahilbind05/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/sahilbind05/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/sahilbind05/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/sahilbind05/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahilbind05/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -114,6 +115,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahilbind05/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sahilbind05/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sahilbind05/Leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/sahilbind05/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -126,4 +128,5 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sahilbind05/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/sahilbind05/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
