@@ -133,11 +133,13 @@
 | [0287-find-the-duplicate-number](https://github.com/sahilbind05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sahilbind05/Leetcode/tree/master/0344-reverse-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sahilbind05/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sahilbind05/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sahilbind05/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sahilbind05/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sahilbind05/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sahilbind05/Leetcode/tree/master/0042-trapping-rain-water) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sahilbind05/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
