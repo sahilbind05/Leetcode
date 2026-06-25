@@ -21,12 +21,14 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahilbind05/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/sahilbind05/Leetcode/tree/master/0322-coin-change) |
 | [1340-jump-game-v](https://github.com/sahilbind05/Leetcode/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/sahilbind05/Leetcode/tree/master/1871-jump-game-vii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sahilbind05/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sahilbind05/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/sahilbind05/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1871-jump-game-vii](https://github.com/sahilbind05/Leetcode/tree/master/1871-jump-game-vii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sahilbind05/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahilbind05/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -47,6 +49,7 @@
 | [0242-valid-anagram](https://github.com/sahilbind05/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sahilbind05/Leetcode/tree/master/0344-reverse-string) |
 | [1189-maximum-number-of-balloons](https://github.com/sahilbind05/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1871-jump-game-vii](https://github.com/sahilbind05/Leetcode/tree/master/1871-jump-game-vii) |
 ## Counting
 |  |
 | ------- |
@@ -178,4 +181,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/sahilbind05/Leetcode/tree/master/0322-coin-change) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/sahilbind05/Leetcode/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
