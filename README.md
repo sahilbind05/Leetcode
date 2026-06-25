@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/sahilbind05/Leetcode/tree/master/0007-reverse-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sahilbind05/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sahilbind05/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
