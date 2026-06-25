@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahilbind05/Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/sahilbind05/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1189-maximum-number-of-balloons](https://github.com/sahilbind05/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahilbind05/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -53,6 +54,7 @@
 | [0035-search-insert-position](https://github.com/sahilbind05/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/sahilbind05/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/sahilbind05/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/sahilbind05/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1732-find-the-highest-altitude](https://github.com/sahilbind05/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/sahilbind05/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahilbind05/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sahilbind05/Leetcode/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/sahilbind05/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
