@@ -9,6 +9,7 @@
 | [0009-palindrome-number](https://github.com/sahilbind05/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/sahilbind05/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/sahilbind05/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/sahilbind05/Leetcode/tree/master/0069-sqrtx) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sahilbind05/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sahilbind05/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
@@ -110,6 +111,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sahilbind05/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahilbind05/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sahilbind05/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/sahilbind05/Leetcode/tree/master/0069-sqrtx) |
 ## Stack
 |  |
 | ------- |
