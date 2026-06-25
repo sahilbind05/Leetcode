@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sahilbind05/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sahilbind05/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sahilbind05/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sahilbind05/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -58,6 +59,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sahilbind05/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sahilbind05/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sahilbind05/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sahilbind05/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1732-find-the-highest-altitude](https://github.com/sahilbind05/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/sahilbind05/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahilbind05/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
