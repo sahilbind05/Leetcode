@@ -40,6 +40,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sahilbind05/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sahilbind05/Leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sahilbind05/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/sahilbind05/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/sahilbind05/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahilbind05/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahilbind05/Leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sahilbind05/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Linked List
 |  |
 | ------- |
