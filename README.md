@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahilbind05/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/sahilbind05/Leetcode/tree/master/0058-length-of-last-word) |
 | [1189-maximum-number-of-balloons](https://github.com/sahilbind05/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
