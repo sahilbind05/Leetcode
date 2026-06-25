@@ -18,6 +18,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sahilbind05/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahilbind05/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/sahilbind05/Leetcode/tree/master/0322-coin-change) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sahilbind05/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sahilbind05/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -69,6 +70,7 @@
 | [0217-contains-duplicate](https://github.com/sahilbind05/Leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilbind05/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sahilbind05/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/sahilbind05/Leetcode/tree/master/0322-coin-change) |
 | [1732-find-the-highest-altitude](https://github.com/sahilbind05/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/sahilbind05/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahilbind05/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sahilbind05/Leetcode/tree/master/0204-count-primes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sahilbind05/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
