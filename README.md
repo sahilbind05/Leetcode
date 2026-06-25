@@ -31,6 +31,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sahilbind05/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sahilbind05/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/sahilbind05/Leetcode/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/sahilbind05/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahilbind05/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -63,6 +64,7 @@
 | [0088-merge-sorted-array](https://github.com/sahilbind05/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahilbind05/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/sahilbind05/Leetcode/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/sahilbind05/Leetcode/tree/master/0217-contains-duplicate) |
 | [1732-find-the-highest-altitude](https://github.com/sahilbind05/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/sahilbind05/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahilbind05/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -76,6 +78,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/sahilbind05/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sahilbind05/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/sahilbind05/Leetcode/tree/master/0217-contains-duplicate) |
 | [1833-maximum-ice-cream-bars](https://github.com/sahilbind05/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
