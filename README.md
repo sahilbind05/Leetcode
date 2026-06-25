@@ -85,6 +85,7 @@
 | [2022-convert-1d-array-into-2d-array](https://github.com/sahilbind05/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2126-destroying-asteroids](https://github.com/sahilbind05/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sahilbind05/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sahilbind05/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahilbind05/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
@@ -137,6 +138,7 @@
 | [0344-reverse-string](https://github.com/sahilbind05/Leetcode/tree/master/0344-reverse-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sahilbind05/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sahilbind05/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sahilbind05/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Linked List
 |  |
 | ------- |
@@ -202,4 +204,5 @@
 |  |
 | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sahilbind05/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sahilbind05/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
