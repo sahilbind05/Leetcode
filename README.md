@@ -19,6 +19,7 @@
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sahilbind05/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sahilbind05/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/sahilbind05/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3945-digit-frequency-score](https://github.com/sahilbind05/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sahilbind05/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahilbind05/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3941-password-strength](https://github.com/sahilbind05/Leetcode/tree/master/3941-password-strength) |
+| [3945-digit-frequency-score](https://github.com/sahilbind05/Leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
