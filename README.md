@@ -120,6 +120,7 @@
 | [3691-maximum-total-subarray-value-ii](https://github.com/sahilbind05/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahilbind05/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/sahilbind05/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/sahilbind05/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -180,6 +181,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/sahilbind05/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/sahilbind05/Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sahilbind05/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/sahilbind05/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Linked List
 |  |
 | ------- |
