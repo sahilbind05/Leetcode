@@ -70,6 +70,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sahilbind05/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/sahilbind05/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/sahilbind05/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
+| [3838-weighted-word-mapping](https://github.com/sahilbind05/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/sahilbind05/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sahilbind05/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahilbind05/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3838-weighted-word-mapping](https://github.com/sahilbind05/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
@@ -251,6 +253,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/sahilbind05/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/sahilbind05/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/sahilbind05/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
+| [3838-weighted-word-mapping](https://github.com/sahilbind05/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Tree
 |  |
 | ------- |
