@@ -136,6 +136,7 @@
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sahilbind05/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/sahilbind05/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/sahilbind05/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/sahilbind05/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/sahilbind05/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
