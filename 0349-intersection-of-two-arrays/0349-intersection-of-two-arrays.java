@@ -11,7 +11,14 @@ class Solution {
                 }
             }
         }
+        int[] res = new int[set.size()];
+        int i = 0;
+
+        for (int n : set) {
+            res[i++] = n;
+        }
         
-        return set.stream().mapToInt(Integer::intValue).toArray();
+        //return set.stream().mapToInt(Integer::intValue).toArray();
+        return res;
     }
 }
