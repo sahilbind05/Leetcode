@@ -8,6 +8,7 @@
 | [0002-add-two-numbers](https://github.com/sahilbind05/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sahilbind05/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sahilbind05/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/sahilbind05/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/sahilbind05/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/sahilbind05/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sahilbind05/Leetcode/tree/master/0069-sqrtx) |
@@ -51,6 +52,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sahilbind05/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilbind05/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/sahilbind05/Leetcode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/sahilbind05/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/sahilbind05/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/sahilbind05/Leetcode/tree/master/0217-contains-duplicate) |
@@ -74,6 +76,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilbind05/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sahilbind05/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sahilbind05/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/sahilbind05/Leetcode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahilbind05/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sahilbind05/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/sahilbind05/Leetcode/tree/master/0125-valid-palindrome) |
