@@ -1,4 +1,9 @@
 # Leetcode
+# 🏆 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/sahilbind05?theme=dark&font=baloo&ext=heatmap"/>
+</p>
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
