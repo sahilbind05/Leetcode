@@ -19,6 +19,7 @@
 | [0066-plus-one](https://github.com/sahilbind05/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sahilbind05/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/sahilbind05/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/sahilbind05/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sahilbind05/Leetcode/tree/master/0342-power-of-four) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sahilbind05/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/sahilbind05/Leetcode/tree/master/1840-maximum-building-height) |
@@ -265,6 +266,7 @@
 | [0002-add-two-numbers](https://github.com/sahilbind05/Leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/sahilbind05/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/sahilbind05/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/sahilbind05/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sahilbind05/Leetcode/tree/master/0342-power-of-four) |
 ## String Matching
 |  |
@@ -275,6 +277,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/sahilbind05/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/sahilbind05/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/sahilbind05/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/sahilbind05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/sahilbind05/Leetcode/tree/master/0342-power-of-four) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahilbind05/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
