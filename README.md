@@ -20,6 +20,7 @@
 | [0069-sqrtx](https://github.com/sahilbind05/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/sahilbind05/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sahilbind05/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/sahilbind05/Leetcode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/sahilbind05/Leetcode/tree/master/0342-power-of-four) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sahilbind05/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/sahilbind05/Leetcode/tree/master/1840-maximum-building-height) |
@@ -325,6 +326,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sahilbind05/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/sahilbind05/Leetcode/tree/master/0258-add-digits) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -340,6 +342,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sahilbind05/Leetcode/tree/master/0258-add-digits) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sahilbind05/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sahilbind05/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/sahilbind05/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
