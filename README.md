@@ -27,6 +27,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sahilbind05/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahilbind05/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahilbind05/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sahilbind05/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sahilbind05/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sahilbind05/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/sahilbind05/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -327,6 +328,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/sahilbind05/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sahilbind05/Leetcode/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sahilbind05/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Breadth-First Search
 |  |
 | ------- |
