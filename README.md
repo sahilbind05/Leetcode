@@ -25,6 +25,7 @@
 | [0342-power-of-four](https://github.com/sahilbind05/Leetcode/tree/master/0342-power-of-four) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sahilbind05/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/sahilbind05/Leetcode/tree/master/1840-maximum-building-height) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sahilbind05/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sahilbind05/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahilbind05/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahilbind05/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -158,6 +159,7 @@
 | [1840-maximum-building-height](https://github.com/sahilbind05/Leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sahilbind05/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sahilbind05/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sahilbind05/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sahilbind05/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2126-destroying-asteroids](https://github.com/sahilbind05/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sahilbind05/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -334,6 +336,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/sahilbind05/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sahilbind05/Leetcode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sahilbind05/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sahilbind05/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Breadth-First Search
 |  |
