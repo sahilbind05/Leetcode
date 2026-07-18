@@ -77,6 +77,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/sahilbind05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sahilbind05/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sahilbind05/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2206-divide-array-into-equal-pairs](https://github.com/sahilbind05/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2540-minimum-common-value](https://github.com/sahilbind05/Leetcode/tree/master/2540-minimum-common-value) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sahilbind05/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sahilbind05/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/sahilbind05/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2206-divide-array-into-equal-pairs](https://github.com/sahilbind05/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahilbind05/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
 |  |
@@ -167,6 +169,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sahilbind05/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sahilbind05/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sahilbind05/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2206-divide-array-into-equal-pairs](https://github.com/sahilbind05/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2540-minimum-common-value](https://github.com/sahilbind05/Leetcode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/sahilbind05/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sahilbind05/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -292,6 +295,7 @@
 | [0231-power-of-two](https://github.com/sahilbind05/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/sahilbind05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/sahilbind05/Leetcode/tree/master/0342-power-of-four) |
+| [2206-divide-array-into-equal-pairs](https://github.com/sahilbind05/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahilbind05/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search
 |  |
