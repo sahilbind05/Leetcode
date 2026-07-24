@@ -55,6 +55,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/sahilbind05/Leetcode/tree/master/0525-contiguous-array) |
 | [1732-find-the-highest-altitude](https://github.com/sahilbind05/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/sahilbind05/Leetcode/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/sahilbind05/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -74,6 +75,7 @@
 | [0219-contains-duplicate-ii](https://github.com/sahilbind05/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sahilbind05/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sahilbind05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0525-contiguous-array](https://github.com/sahilbind05/Leetcode/tree/master/0525-contiguous-array) |
 | [1189-maximum-number-of-balloons](https://github.com/sahilbind05/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/sahilbind05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sahilbind05/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -154,6 +156,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sahilbind05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/sahilbind05/Leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/sahilbind05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0525-contiguous-array](https://github.com/sahilbind05/Leetcode/tree/master/0525-contiguous-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/sahilbind05/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/sahilbind05/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sahilbind05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
