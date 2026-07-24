@@ -82,6 +82,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/sahilbind05/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sahilbind05/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2540-minimum-common-value](https://github.com/sahilbind05/Leetcode/tree/master/2540-minimum-common-value) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/sahilbind05/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sahilbind05/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sahilbind05/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sahilbind05/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -177,6 +178,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/sahilbind05/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2540-minimum-common-value](https://github.com/sahilbind05/Leetcode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/sahilbind05/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/sahilbind05/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2706-buy-two-chocolates](https://github.com/sahilbind05/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sahilbind05/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sahilbind05/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -343,6 +345,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sahilbind05/Leetcode/tree/master/0204-count-primes) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/sahilbind05/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sahilbind05/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sahilbind05/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
