@@ -29,6 +29,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sahilbind05/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/sahilbind05/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sahilbind05/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/sahilbind05/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahilbind05/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahilbind05/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sahilbind05/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -226,6 +227,7 @@
 | [2126-destroying-asteroids](https://github.com/sahilbind05/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sahilbind05/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2706-buy-two-chocolates](https://github.com/sahilbind05/Leetcode/tree/master/2706-buy-two-chocolates) |
+| [3536-maximum-product-of-two-digits](https://github.com/sahilbind05/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sahilbind05/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Counting Sort
 |  |
