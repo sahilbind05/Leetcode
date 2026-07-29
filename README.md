@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/sahilbind05/Leetcode/tree/master/0525-contiguous-array) |
+| [1480-running-sum-of-1d-array](https://github.com/sahilbind05/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/sahilbind05/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/sahilbind05/Leetcode/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/sahilbind05/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -167,6 +168,7 @@
 | [1288-remove-covered-intervals](https://github.com/sahilbind05/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sahilbind05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/sahilbind05/Leetcode/tree/master/1340-jump-game-v) |
+| [1480-running-sum-of-1d-array](https://github.com/sahilbind05/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/sahilbind05/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahilbind05/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sahilbind05/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
