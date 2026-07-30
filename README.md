@@ -169,6 +169,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/sahilbind05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/sahilbind05/Leetcode/tree/master/1340-jump-game-v) |
 | [1480-running-sum-of-1d-array](https://github.com/sahilbind05/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sahilbind05/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1732-find-the-highest-altitude](https://github.com/sahilbind05/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahilbind05/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sahilbind05/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -230,6 +231,7 @@
 | [1288-remove-covered-intervals](https://github.com/sahilbind05/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sahilbind05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/sahilbind05/Leetcode/tree/master/1340-jump-game-v) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sahilbind05/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1833-maximum-ice-cream-bars](https://github.com/sahilbind05/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/sahilbind05/Leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sahilbind05/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
