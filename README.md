@@ -22,6 +22,7 @@
 | [0204-count-primes](https://github.com/sahilbind05/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sahilbind05/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sahilbind05/Leetcode/tree/master/0258-add-digits) |
+| [0279-perfect-squares](https://github.com/sahilbind05/Leetcode/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/sahilbind05/Leetcode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahilbind05/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sahilbind05/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -45,6 +46,7 @@
 | [0010-regular-expression-matching](https://github.com/sahilbind05/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/sahilbind05/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahilbind05/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0279-perfect-squares](https://github.com/sahilbind05/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/sahilbind05/Leetcode/tree/master/0322-coin-change) |
 | [1340-jump-game-v](https://github.com/sahilbind05/Leetcode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/sahilbind05/Leetcode/tree/master/1871-jump-game-vii) |
@@ -371,6 +373,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/sahilbind05/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/sahilbind05/Leetcode/tree/master/0322-coin-change) |
 ## Sliding Window
 |  |
