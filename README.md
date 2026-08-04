@@ -93,6 +93,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sahilbind05/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sahilbind05/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sahilbind05/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3731-find-missing-elements](https://github.com/sahilbind05/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahilbind05/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sahilbind05/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3941-password-strength](https://github.com/sahilbind05/Leetcode/tree/master/3941-password-strength) |
@@ -204,6 +205,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sahilbind05/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sahilbind05/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sahilbind05/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3731-find-missing-elements](https://github.com/sahilbind05/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahilbind05/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sahilbind05/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/sahilbind05/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -249,6 +251,7 @@
 | [2706-buy-two-chocolates](https://github.com/sahilbind05/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3536-maximum-product-of-two-digits](https://github.com/sahilbind05/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sahilbind05/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3731-find-missing-elements](https://github.com/sahilbind05/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
