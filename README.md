@@ -96,6 +96,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sahilbind05/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sahilbind05/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sahilbind05/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sahilbind05/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3731-find-missing-elements](https://github.com/sahilbind05/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahilbind05/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sahilbind05/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -208,6 +209,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sahilbind05/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sahilbind05/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/sahilbind05/Leetcode/tree/master/3093-longest-common-suffix-queries) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sahilbind05/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3161-block-placement-queries](https://github.com/sahilbind05/Leetcode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sahilbind05/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahilbind05/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -353,6 +355,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sahilbind05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/sahilbind05/Leetcode/tree/master/0342-power-of-four) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sahilbind05/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sahilbind05/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahilbind05/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search
 |  |
