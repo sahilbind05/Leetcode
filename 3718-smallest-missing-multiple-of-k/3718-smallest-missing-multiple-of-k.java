@@ -3,15 +3,15 @@ class Solution {
         int multiple = k;
         while(true){
             boolean found=false;
-            for(int i=0;i<nums.length;i++){
-                if(nums[i]==multiple){
+            for(int num : nums){
+                if(num==multiple){
                     multiple += k;
                     found=true;
                     break;
                 }
             }
-            if(!found){
-            return multiple;
+            if(found == false){
+                return multiple;
             }
         }
         
