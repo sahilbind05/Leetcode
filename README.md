@@ -225,6 +225,7 @@
 | [3731-find-missing-elements](https://github.com/sahilbind05/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahilbind05/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sahilbind05/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/sahilbind05/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3838-weighted-word-mapping](https://github.com/sahilbind05/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/sahilbind05/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/sahilbind05/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -278,6 +279,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/sahilbind05/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sahilbind05/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3731-find-missing-elements](https://github.com/sahilbind05/Leetcode/tree/master/3731-find-missing-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/sahilbind05/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Counting Sort
 |  |
 | ------- |
