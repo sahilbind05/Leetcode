@@ -38,6 +38,7 @@
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahilbind05/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahilbind05/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sahilbind05/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3663-find-the-least-frequent-digit](https://github.com/sahilbind05/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sahilbind05/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sahilbind05/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/sahilbind05/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -99,6 +100,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/sahilbind05/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sahilbind05/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sahilbind05/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3663-find-the-least-frequent-digit](https://github.com/sahilbind05/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sahilbind05/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sahilbind05/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahilbind05/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -139,6 +141,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/sahilbind05/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sahilbind05/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sahilbind05/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [3663-find-the-least-frequent-digit](https://github.com/sahilbind05/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahilbind05/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
 |  |
@@ -224,6 +227,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sahilbind05/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahilbind05/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sahilbind05/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3663-find-the-least-frequent-digit](https://github.com/sahilbind05/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sahilbind05/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sahilbind05/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sahilbind05/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
