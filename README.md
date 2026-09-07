@@ -189,6 +189,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahilbind05/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/sahilbind05/Leetcode/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahilbind05/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/sahilbind05/Leetcode/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/sahilbind05/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sahilbind05/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sahilbind05/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -404,6 +405,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sahilbind05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahilbind05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0400-nth-digit](https://github.com/sahilbind05/Leetcode/tree/master/0400-nth-digit) |
+| [0704-binary-search](https://github.com/sahilbind05/Leetcode/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/sahilbind05/Leetcode/tree/master/2540-minimum-common-value) |
 | [3161-block-placement-queries](https://github.com/sahilbind05/Leetcode/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sahilbind05/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
