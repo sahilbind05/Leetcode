@@ -42,6 +42,7 @@
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sahilbind05/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sahilbind05/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/sahilbind05/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3870-count-commas-in-range](https://github.com/sahilbind05/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3945-digit-frequency-score](https://github.com/sahilbind05/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
