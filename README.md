@@ -83,6 +83,7 @@
 | [0013-roman-to-integer](https://github.com/sahilbind05/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/sahilbind05/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/sahilbind05/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/sahilbind05/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sahilbind05/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sahilbind05/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sahilbind05/Leetcode/tree/master/0242-valid-anagram) |
@@ -143,6 +144,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sahilbind05/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahilbind05/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/sahilbind05/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sahilbind05/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -176,6 +178,7 @@
 | [0162-find-peak-element](https://github.com/sahilbind05/Leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/sahilbind05/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilbind05/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/sahilbind05/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sahilbind05/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/sahilbind05/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sahilbind05/Leetcode/tree/master/0204-count-primes) |
@@ -271,6 +274,7 @@
 | [0075-sort-colors](https://github.com/sahilbind05/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sahilbind05/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/sahilbind05/Leetcode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/sahilbind05/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sahilbind05/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilbind05/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sahilbind05/Leetcode/tree/master/0217-contains-duplicate) |
@@ -308,6 +312,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sahilbind05/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/sahilbind05/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilbind05/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilbind05/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahilbind05/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -529,4 +534,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/sahilbind05/Leetcode/tree/master/0881-boats-to-save-people) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sahilbind05/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
