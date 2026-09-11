@@ -99,6 +99,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/sahilbind05/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sahilbind05/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sahilbind05/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2404-most-frequent-even-element](https://github.com/sahilbind05/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/sahilbind05/Leetcode/tree/master/2540-minimum-common-value) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/sahilbind05/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sahilbind05/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -150,6 +151,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/sahilbind05/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sahilbind05/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sahilbind05/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2404-most-frequent-even-element](https://github.com/sahilbind05/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [3663-find-the-least-frequent-digit](https://github.com/sahilbind05/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahilbind05/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
@@ -226,6 +228,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/sahilbind05/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sahilbind05/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sahilbind05/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2404-most-frequent-even-element](https://github.com/sahilbind05/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/sahilbind05/Leetcode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/sahilbind05/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/sahilbind05/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
