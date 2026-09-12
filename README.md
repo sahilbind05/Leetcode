@@ -240,6 +240,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sahilbind05/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3161-block-placement-queries](https://github.com/sahilbind05/Leetcode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sahilbind05/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3477-fruits-into-baskets-ii](https://github.com/sahilbind05/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahilbind05/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sahilbind05/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/sahilbind05/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
@@ -326,6 +327,7 @@
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/sahilbind05/Leetcode/tree/master/3161-block-placement-queries) |
+| [3477-fruits-into-baskets-ii](https://github.com/sahilbind05/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sahilbind05/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahilbind05/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sahilbind05/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -422,6 +424,7 @@
 | [0704-binary-search](https://github.com/sahilbind05/Leetcode/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/sahilbind05/Leetcode/tree/master/2540-minimum-common-value) |
 | [3161-block-placement-queries](https://github.com/sahilbind05/Leetcode/tree/master/3161-block-placement-queries) |
+| [3477-fruits-into-baskets-ii](https://github.com/sahilbind05/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sahilbind05/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
@@ -473,6 +476,7 @@
 | [0258-add-digits](https://github.com/sahilbind05/Leetcode/tree/master/0258-add-digits) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sahilbind05/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sahilbind05/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3477-fruits-into-baskets-ii](https://github.com/sahilbind05/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/sahilbind05/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/sahilbind05/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/sahilbind05/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -499,6 +503,7 @@
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/sahilbind05/Leetcode/tree/master/3161-block-placement-queries) |
+| [3477-fruits-into-baskets-ii](https://github.com/sahilbind05/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Depth-First Search
 |  |
 | ------- |
