@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/sahilbind05/Leetcode/tree/master/0525-contiguous-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sahilbind05/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/sahilbind05/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/sahilbind05/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/sahilbind05/Leetcode/tree/master/1871-jump-game-vii) |
@@ -212,6 +213,7 @@
 | [1288-remove-covered-intervals](https://github.com/sahilbind05/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sahilbind05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/sahilbind05/Leetcode/tree/master/1340-jump-game-v) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sahilbind05/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahilbind05/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sahilbind05/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sahilbind05/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -473,6 +475,7 @@
 | [0239-sliding-window-maximum](https://github.com/sahilbind05/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/sahilbind05/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sahilbind05/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sahilbind05/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1871-jump-game-vii](https://github.com/sahilbind05/Leetcode/tree/master/1871-jump-game-vii) |
 ## Simulation
 |  |
