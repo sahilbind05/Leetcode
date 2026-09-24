@@ -37,6 +37,7 @@
 | [2652-sum-multiples](https://github.com/sahilbind05/Leetcode/tree/master/2652-sum-multiples) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sahilbind05/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/sahilbind05/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahilbind05/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahilbind05/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahilbind05/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sahilbind05/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -248,6 +249,7 @@
 | [3161-block-placement-queries](https://github.com/sahilbind05/Leetcode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sahilbind05/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3477-fruits-into-baskets-ii](https://github.com/sahilbind05/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahilbind05/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahilbind05/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sahilbind05/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/sahilbind05/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
