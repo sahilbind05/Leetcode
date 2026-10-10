@@ -211,6 +211,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahilbind05/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sahilbind05/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/sahilbind05/Leetcode/tree/master/0525-contiguous-array) |
+| [0605-can-place-flowers](https://github.com/sahilbind05/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahilbind05/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/sahilbind05/Leetcode/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/sahilbind05/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -278,6 +279,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahilbind05/Leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/sahilbind05/Leetcode/tree/master/0179-largest-number) |
+| [0605-can-place-flowers](https://github.com/sahilbind05/Leetcode/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/sahilbind05/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/sahilbind05/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sahilbind05/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
