@@ -45,6 +45,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sahilbind05/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/sahilbind05/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sahilbind05/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sahilbind05/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sahilbind05/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/sahilbind05/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3870-count-commas-in-range](https://github.com/sahilbind05/Leetcode/tree/master/3870-count-commas-in-range) |
@@ -290,6 +291,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sahilbind05/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sahilbind05/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sahilbind05/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sahilbind05/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/sahilbind05/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
