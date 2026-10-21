@@ -210,6 +210,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sahilbind05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sahilbind05/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahilbind05/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0456-132-pattern](https://github.com/sahilbind05/Leetcode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/sahilbind05/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/sahilbind05/Leetcode/tree/master/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/sahilbind05/Leetcode/tree/master/0605-can-place-flowers) |
@@ -449,6 +450,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sahilbind05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/sahilbind05/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/sahilbind05/Leetcode/tree/master/0400-nth-digit) |
+| [0456-132-pattern](https://github.com/sahilbind05/Leetcode/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/sahilbind05/Leetcode/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sahilbind05/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/sahilbind05/Leetcode/tree/master/2540-minimum-common-value) |
@@ -459,11 +461,13 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sahilbind05/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/sahilbind05/Leetcode/tree/master/0456-132-pattern) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sahilbind05/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sahilbind05/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/sahilbind05/Leetcode/tree/master/0456-132-pattern) |
 ## Matrix
 |  |
 | ------- |
@@ -533,6 +537,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/sahilbind05/Leetcode/tree/master/0456-132-pattern) |
 | [3161-block-placement-queries](https://github.com/sahilbind05/Leetcode/tree/master/3161-block-placement-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/sahilbind05/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Depth-First Search
