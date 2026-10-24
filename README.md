@@ -229,6 +229,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahilbind05/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sahilbind05/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sahilbind05/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1539-kth-missing-positive-number](https://github.com/sahilbind05/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/sahilbind05/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahilbind05/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sahilbind05/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -456,6 +457,7 @@
 | [0400-nth-digit](https://github.com/sahilbind05/Leetcode/tree/master/0400-nth-digit) |
 | [0456-132-pattern](https://github.com/sahilbind05/Leetcode/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/sahilbind05/Leetcode/tree/master/0704-binary-search) |
+| [1539-kth-missing-positive-number](https://github.com/sahilbind05/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sahilbind05/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/sahilbind05/Leetcode/tree/master/2540-minimum-common-value) |
 | [3161-block-placement-queries](https://github.com/sahilbind05/Leetcode/tree/master/3161-block-placement-queries) |
