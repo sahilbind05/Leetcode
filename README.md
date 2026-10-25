@@ -60,6 +60,7 @@
 | [0279-perfect-squares](https://github.com/sahilbind05/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/sahilbind05/Leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/sahilbind05/Leetcode/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/sahilbind05/Leetcode/tree/master/0518-coin-change-ii) |
 | [1340-jump-game-v](https://github.com/sahilbind05/Leetcode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/sahilbind05/Leetcode/tree/master/1871-jump-game-vii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahilbind05/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -212,6 +213,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahilbind05/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/sahilbind05/Leetcode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/sahilbind05/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0518-coin-change-ii](https://github.com/sahilbind05/Leetcode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/sahilbind05/Leetcode/tree/master/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/sahilbind05/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahilbind05/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -600,4 +602,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sahilbind05/Leetcode/tree/master/0509-fibonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/sahilbind05/Leetcode/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/sahilbind05/Leetcode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
