@@ -228,6 +228,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/sahilbind05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/sahilbind05/Leetcode/tree/master/1340-jump-game-v) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sahilbind05/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/sahilbind05/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahilbind05/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sahilbind05/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sahilbind05/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
