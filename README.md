@@ -231,6 +231,7 @@
 | [1288-remove-covered-intervals](https://github.com/sahilbind05/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sahilbind05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/sahilbind05/Leetcode/tree/master/1340-jump-game-v) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sahilbind05/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sahilbind05/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/sahilbind05/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahilbind05/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -331,6 +332,7 @@
 | [1288-remove-covered-intervals](https://github.com/sahilbind05/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sahilbind05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/sahilbind05/Leetcode/tree/master/1340-jump-game-v) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sahilbind05/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahilbind05/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sahilbind05/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1833-maximum-ice-cream-bars](https://github.com/sahilbind05/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -401,6 +403,7 @@
 | [0905-sort-array-by-parity](https://github.com/sahilbind05/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sahilbind05/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahilbind05/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sahilbind05/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sahilbind05/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sahilbind05/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sahilbind05/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -464,6 +467,7 @@
 | [0400-nth-digit](https://github.com/sahilbind05/Leetcode/tree/master/0400-nth-digit) |
 | [0456-132-pattern](https://github.com/sahilbind05/Leetcode/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/sahilbind05/Leetcode/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sahilbind05/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/sahilbind05/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sahilbind05/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/sahilbind05/Leetcode/tree/master/2540-minimum-common-value) |
