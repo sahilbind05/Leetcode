@@ -267,6 +267,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sahilbind05/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sahilbind05/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/sahilbind05/Leetcode/tree/master/3093-longest-common-suffix-queries) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sahilbind05/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sahilbind05/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3161-block-placement-queries](https://github.com/sahilbind05/Leetcode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sahilbind05/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
